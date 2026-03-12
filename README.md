@@ -22,5 +22,3 @@ Library_database
 4. Open in browser:  
 http://localhost/Library-Management-System
 
-## Author
-Azeem Noor Muhammad
