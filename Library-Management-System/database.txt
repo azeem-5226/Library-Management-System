@@ -1,0 +1,25 @@
+//  Books Table
+
+CREATE TABLE books(
+id INT AUTO_INCREMENT PRIMARY KEY,
+title VARCHAR(200),
+author VARCHAR(200),
+quantity INT
+);
+
+
+
+
+
+// Issued Books Table
+
+
+CREATE TABLE issued_books(
+id INT AUTO_INCREMENT PRIMARY KEY,
+student_name VARCHAR(200),
+book_id INT,
+issue_date DATE,
+return_date DATE
+);
+
+
