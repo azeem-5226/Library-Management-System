@@ -1,90 +1,47 @@
-# 📚 Library Management System
+<h1 align="center">📚 Library Management System</h1>
+<p align="center">
+  A simple and efficient system to manage library operations
+</p>
 
-A simple and efficient **Library Management System** developed to manage books, users, and transactions in a structured way.  
-This project is built using **HTML, CSS, JavaScript, PHP, and MySQL**.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
+</p>
 
 ---
 
-## 📖 About the Project
+## 📖 About
 
-This project is designed to make library operations easy and organized.  
-It allows administrators to manage books and users, while users can search and access book-related information.
-
-The main goal of this project is to understand how a real-world system works using full-stack web development.
+A web-based application to manage books, users, and transactions efficiently.  
+Built using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
 ---
 
 ## ✨ Features
 
-- User Registration and Login  
+- User Login & Registration  
 - Admin Dashboard  
-- Add, Update, and Delete Books  
-- Issue and Return Books  
+- Add / Update / Delete Books  
+- Issue & Return Books  
 - Search Functionality  
-- Manage User Records  
-- Database Integration  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- MySQL  
+HTML • CSS • JavaScript • PHP • MySQL  
 
 ---
 
-## 📂 Project Structure
+## 🚀 Setup
 
-```
-Library-Management-System/
-│── index.php
-│── login.php
-│── register.php
-│── dashboard.php
-│── README.md
-│
-├── css/
-├── js/
-├── images/
-└── database/
-    └── library.sql
-```
-
----
-
-## 🚀 How to Run the Project
-
-1. Download or clone this repository  
-2. Move the project folder to `htdocs` (XAMPP)  
-3. Start Apache and MySQL  
-4. Open phpMyAdmin and import the database file (`library.sql`)  
-5. Run the project in your browser:
-
-```
-http://localhost/Library-Management-System
-```
-
----
-
-## 🎯 What I Learned
-
-- Basics of full-stack development  
-- Working with PHP and MySQL  
-- CRUD operations (Create, Read, Update, Delete)  
-- Designing simple and clean UI  
-- Connecting frontend with backend  
-
----
-
-## 🔮 Future Improvements
-
-- Better UI design  
-- Role-based login system  
-- Email notifications  
-- Fine calculation system  
+1. Move project to `htdocs`  
+2. Start XAMPP (Apache & MySQL)  
+3. Import `library.sql` in phpMyAdmin  
+4. Run: `http://localhost/Library-Management-System`
 
 ---
 
@@ -92,12 +49,7 @@ http://localhost/Library-Management-System
 
 **Azeem Noor Muhammad**  
 B.Sc. IT Student  
-Aspiring Software Developer  
 
 ---
 
-## 📌 Note
-
-This project is created for learning purposes and can be improved further with advanced features.
-
----
+<p align="center">⭐ Star this repo if you like it!</p>
