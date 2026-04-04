@@ -52,4 +52,11 @@ B.Sc. IT Student
 
 ---
 
+
+## 📌 Note
+
+This project is created for learning purposes and can be improved further with advanced features.
+
+---
+
 <p align="center">⭐ Star this repo if you like it!</p>
